@@ -1,0 +1,12 @@
+.katex * {
+	font-family: KaTeX_Main, Arial, PingFang SC, Microsoft YaHei, SimSun,
+		sans-serif;
+}
+.katex-display {
+	display: inline-block;
+	margin: 0;
+}
+.katex-display > .katex {
+	white-space: unset;
+	text-align: left;
+}

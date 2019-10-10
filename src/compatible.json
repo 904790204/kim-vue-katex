@@ -1,0 +1,21 @@
+{
+    "{align}":"{aligned}",
+    "{alignat}":"{alignedat}",
+    "\\array":"{array}",
+    "\\cal":"\\mathcal",
+    "\\cases":"{cases}",
+    "{gather}":"{gathered}",
+    "\\matrix":"{matrix}",
+    "\\mit":"\\mathit",
+    "\\overparen":"\\overgroup",
+    "\\pmatrix":"{pmatrix}",
+    "\\Q":"\\Bbb{Q}",
+    "\\raise":"\\raisebox",
+    "\\Rule":"\\rule",
+    "\\scr":"\\mathscr",
+    "\\Space":"\\space",
+    "\\Tiny":"\\tiny",
+    "\\underparen":"\\undergroup",
+    "\\ne":"{=}\\mathllap{/\\,}",
+    "*{35}{l}": ""
+}
